@@ -1,4 +1,4 @@
-package lecture2_15;
+package Trie;
 
 import java.util.ArrayList;
 
